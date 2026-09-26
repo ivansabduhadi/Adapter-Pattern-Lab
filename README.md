@@ -5,7 +5,8 @@
 
 
 ## UML Class Diagram
-![UML Diagram](uml-diagram.png)
+<img width="1066" height="613" alt="image" src="https://github.com/user-attachments/assets/a963c87e-5b00-4217-b071-c4e43f583784" />
+
 
 ## Program Output
 ```text
