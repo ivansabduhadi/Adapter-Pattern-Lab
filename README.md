@@ -1,7 +1,8 @@
-# Lab Assignment 3: Adapter Pattern
+# Adapter Pattern
 
 ## Problem Statement
-You are developing an application that helps users manage and control various electronic devices by plugging them into power outlets. Each device has different plug types, voltage, and amperage requirements. To ensure compatibility and safety, you need to create adapters for different devices to allow them to be plugged into standard power outlets.
+<img width="1527" height="503" alt="image" src="https://github.com/user-attachments/assets/801e405c-81f9-4e78-9c06-fa5aeeddfaf5" />
+
 
 ## UML Class Diagram
 ![UML Diagram](uml-diagram.png)
